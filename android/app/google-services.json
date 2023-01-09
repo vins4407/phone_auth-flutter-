@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "502311676713",
+    "project_id": "flyin-ca9fd",
+    "storage_bucket": "flyin-ca9fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502311676713:android:121ada8a575d5981b8e538",
+        "android_client_info": {
+          "package_name": "com.example.flyin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502311676713-aot86rn0mf6csce6f6ismvjos3f4gtuf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flyin",
+            "certificate_hash": "9ddeb35f251380e4d950811540c9be5056b4693d"
+          }
+        },
+        {
+          "client_id": "502311676713-ofis70d8f5gh8l1darlmo768e52u3r43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRiQ0Le5JRHM160Rgs22sRrX7XgbjDHOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502311676713-ofis70d8f5gh8l1darlmo768e52u3r43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
