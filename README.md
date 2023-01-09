@@ -1,16 +1,15 @@
-# flyin
+# Phone Auth Using flutter firebase
 
-A new Flutter project.
+easy integration for any exhisting application!
 
-## Getting Started
+steps to run application:
 
-This project is a starting point for a Flutter application.
+-clone the repository 
+-get dependencies
+-setup firebase for the flutter app(enable firestore, authentication for phone , storage)
+-make your you update the rules to read and write for every services in firebase.
+-integrate the firebase to your flutter app using the documentation.
+-start building the application on any emulator or device.
+  
+ you are done!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
