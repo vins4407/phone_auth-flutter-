@@ -1,15 +1,24 @@
-# Phone Auth Using flutter firebase
+# Phone Auth Using Flutter Firebase
 
-easy integration for any exhisting application!
+This repository provides an easy integration for adding phone authentication to any existing Flutter application using Firebase.
 
-steps to run application:
+## Steps to Run the Application
 
--clone the repository 
--get dependencies
--setup firebase for the flutter app(enable firestore, authentication for phone , storage)
--make your you update the rules to read and write for every services in firebase.
--integrate the firebase to your flutter app using the documentation.
--start building the application on any emulator or device.
-  
- you are done!
+1. Clone the repository to your local machine.
+2. Get the dependencies by running the following command in the project directory: flutter pub get
+   ```bash
+   flutter pub get
+   ```
+3. Set up Firebase for the Flutter app by following these steps:
+- Enable Firestore, Authentication for Phone, and Storage services in your Firebase project.
+- Make sure to update the rules to allow read and write access for the enabled services in Firebase.
+4. Integrate Firebase into your Flutter app using the documentation provided by Firebase.
+5. Start building the application on any emulator or device using the following command:
+```bash
+  flutter run
+  //or
+  flutter run -d chrome --web-renderer html (to see the best output)
+```
 
+   
+Congratulations! You have successfully integrated phone authentication using Flutter Firebase into your application.
